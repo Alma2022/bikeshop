@@ -1,0 +1,63 @@
+h2, h4 {
+    text-align: center;
+}
+
+
+.names {
+    text-align: center;
+}
+
+.contact-info {
+    white-space: pre-line;
+}
+
+.footer {
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: rgb(61, 60, 60);
+        color: white;
+        text-align: center;
+     
+}
+
+
+.bikeimg {
+    height: 50%;
+    
+  }
+
+  .cards{
+
+    transition: all 0.2s ease;
+    cursor: pointer;
+    
+  }
+    
+
+
+.cards:hover{
+  
+    transform: scale(1.1);
+}
+
+
+
+.card {
+  border: none
+}
+
+.text {
+  font-size: 20px;
+  color: #383737ba;
+  font-weight: 500
+}
+
+
+
+
+
+
+
+
+
